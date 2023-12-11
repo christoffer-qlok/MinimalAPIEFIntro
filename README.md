@@ -1,0 +1,1 @@
+Remember to change the connection string in appsettings.json to your own
